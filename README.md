@@ -1,8 +1,6 @@
 # 📚 GroqDocChat: Multimodal RAG App for PDF Q&A
 
-This project demonstrates a Retrieval-Augmented Generation (RAG) chatbot powered by the **Groq API** and **LangChain**, capable of answering questions from large PDF documents using **HuggingFace embeddings** and **Chroma vector store**.
-
-💼 Business Problem
+💼 Business Problem-
 Organizations often store critical knowledge in lengthy, unstructured PDF documents—legal contracts, financial reports, compliance manuals, and more. Manually searching through these documents to find specific information is time-consuming and error-prone.
 This project solves that problem by using a Retrieval-Augmented Generation (RAG) approach. It enables users to ask natural language questions and get accurate, contextual answers directly from PDFs, along with source page references—making document intelligence fast, scalable, and reliable.
 
